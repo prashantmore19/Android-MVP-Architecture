@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Android-MVP-Architecture</string>
+
+
+    <!-- Error Messages -->
+    <string name="exception_message_generic">There was an application error</string>
+    <string name="exception_message_no_connection">There is no internet connection</string>
+    <string name="exception_message_connection_failure">No internet Connection, Please Cross check your internet connectivity and try again</string>
+    <string name="exception_message_user_not_found">Cannot retrieve user data. Check your internet connection</string>
+    <string name="exception_message_unauthorized_user">Access is denied due to invalid credentials.</string>
+    <string name="exception_message_service_unavailable">The service is unavailable</string>
+    <string name="exception_message_server_error">An error occurred while connecting to the application server.</string>
+    <string name="exception_message_not_found">Service Not Found</string>
+
+    <string name="get_user_list">Get User List</string>
+    <string name="message_no_user_found">No users found</string>
+    <string name="message_get_user_list_api_successful">API Request Successful</string>
+    <string name="message_get_user_list_api_failure">API Request Failure</string>
+
+</resources>
